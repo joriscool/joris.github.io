@@ -1,0 +1,229 @@
+body{
+  background-color:#1A1A1D;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:  fixed;
+  text-align: center;
+}
+#menu{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+}
+#menu:hover{
+
+  background-color: white;
+  transition: 0.5s;
+}
+#menu1{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+}
+#menu1:hover{
+
+  background-color: white;
+  transition: 0.5s;
+}
+#menu2{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+}
+#menu2:hover{
+
+  background-color: white;
+  transition: 0.5s;
+}
+#menu3{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+}
+#menu3:hover{
+
+  background-color: white;
+  transition: 0.5s;
+}
+#menu4{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+}
+#menu4:hover{
+
+  background-color: white;
+  transition: 0.5s;
+}
+
+a:link{
+  text-decoration: none;
+  color: white;
+}
+a:visited{
+  color: white;
+}
+a:hover{
+  color: black;
+  transition: 0.5s;
+  font-size: 20px;
+
+
+}
+li{
+  color: #4E4E50;
+  list-style: none;
+  margin-right: 4%;  
+}
+
+
+
+
+
+
+h1{
+
+text-align: center;
+}
+
+p{
+  color: #99999999;
+}
+h2{
+  color: #950740
+}
+
+h1{
+
+  color: #950740;
+  font-family: Trattatello, fantasy;
+}
+iframe{
+  margin-top: 100px;
+  border-color: red;
+  border-width: 5px;
+  margin-right: 60%
+}
+img{
+  margin-top: 10%;
+}
+
+
+
+table, th, td, tr {
+  border: 5px solid  darkred;
+  margin-left: 35%;
+  padding: 10px;
+  color: red;
+  text-align: center;
+  font-size: 40px
+}
+#Supervriend:hover{
+ color: pink;
+}
+#Vriend:hover{
+  color: pink;
+}
+#hobby{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby:hover{
+  color: pink;
+}
+#hobby1{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby1:hover{
+  color: pink;
+}
+#hobby2{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby2:hover{
+  color: pink;
+}
+#hobby3{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby3:hover{
+  color: pink;
+}
+
+.p:hover{
+  color: pink ;
+  display: inline;
+
+}
+#drumstel{
+  margin-left: 6% ;
+    border: solid red;
+}
+#schermen{
+  margin-left: 18%;
+  border: solid red;
+}
+#instagram:hover{
+  width: 250px;
+  height: 250px;
+  transition: 0.5s;
+
+}
+#twitter:hover{
+  width: 250px;
+  height: 250px;
+  transition: 0.5s;
+
+}
+#yt:hover{
+  width: 300px;
+  height: 250px;
+  transition:  0.5s;
+
+}
+#spinnenman1{
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+#mein1{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#brawl1{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#spin{
+  margin-left: 50%;
+
+}
+#mein{
+  margin-right: 40%;
+
+}
+#brawl{
+    margin-left: 1%;
+}
+#q{
+    margin-right: 63%;
+}
