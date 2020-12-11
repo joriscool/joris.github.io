@@ -13,11 +13,13 @@ body{
   background-color: black;
   overflow: hidden;
   margin: -4px;
+  color: white;
 }
 #menu:hover{
 
   background-color: white;
   transition: 0.5s;
+  color: black;
 }
 #menu1{
   display: inline;
@@ -26,11 +28,14 @@ body{
   background-color: black;
   overflow: hidden;
   margin: -4px;
+  color: white;
 }
 #menu1:hover{
 
   background-color: white;
-  transition: 0.5s;
+  transition: 0.2s;
+  color: black;
+
 }
 #menu2{
   display: inline;
@@ -39,11 +44,13 @@ body{
   background-color: black;
   overflow: hidden;
   margin: -4px;
+  color: white;
 }
 #menu2:hover{
 
   background-color: white;
-  transition: 0.5s;
+  transition: 0.2s;
+  color: black;
 }
 #menu3{
   display: inline;
@@ -52,11 +59,13 @@ body{
   background-color: black;
   overflow: hidden;
   margin: -4px;
+  color: white;
 }
 #menu3:hover{
 
   background-color: white;
-  transition: 0.5s;
+  transition: 0.2s;
+  color: black;
 }
 #menu4{
   display: inline;
@@ -65,11 +74,13 @@ body{
   background-color: black;
   overflow: hidden;
   margin: -4px;
+  color: white;
 }
 #menu4:hover{
 
   background-color: white;
-  transition: 0.5s;
+  transition: 0.2s;
+  color: black;   
 }
 
 a:link{
@@ -89,7 +100,7 @@ a:hover{
 li{
   color: #4E4E50;
   list-style: none;
-  margin-right: 4%;  
+  margin-right: 4%;
 }
 
 
@@ -99,7 +110,7 @@ li{
 
 h1{
 
-text-align: center;
+  text-align: center;
 }
 
 p{
@@ -135,7 +146,7 @@ table, th, td, tr {
   font-size: 40px
 }
 #Supervriend:hover{
- color: pink;
+  color: pink;
 }
 #Vriend:hover{
   color: pink;
@@ -176,7 +187,7 @@ table, th, td, tr {
 }
 #drumstel{
   margin-left: 6% ;
-    border: solid red;
+  border: solid red;
 }
 #schermen{
   margin-left: 18%;
@@ -222,8 +233,8 @@ table, th, td, tr {
 
 }
 #brawl{
-    margin-left: 1%;
+  margin-left: 1%;
 }
 #q{
-    margin-right: 63%;
+  margin-right: 63%;
 }
